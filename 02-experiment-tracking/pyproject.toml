@@ -1,0 +1,14 @@
+[project]
+name = "02-experiment-tracking"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Inigo Lopez de Ocariz", email = "inigo_ocariz@me.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
